@@ -1,2 +1,3 @@
 # firstRepo
-coursera ?
+First time testing GitHub
+
